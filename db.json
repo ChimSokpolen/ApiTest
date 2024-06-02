@@ -1,0 +1,18 @@
+{
+    "product":[
+        {
+            "id" : 1,
+            "url" : "https://idestiny.in/wp-content/uploads/2022/09/Apple_Watch_SE_LTE_40mm_Starlight_Aluminum_Starlight_Sport_Band_PDP_Images_Position-1__en-IN.jpg",
+            "name" :"Apple Watch SE 2",
+            "description":"Apple Watch SE – A great deal to love. Three stylish case colours. Powerful sensors for insights about your health and fitness. Innovative safety features. Convenient ways to stay connected. Apple Watch SE is feature-packed and now it’s a better value than ever.",
+            "price": "200$"
+        },
+        {
+            "id" : 2,
+            "url":"https://images.samsung.com/in/smartphones/galaxy-z-flip4/images/galaxy-z-flip4_highlights_kv.jpg",
+            "name" :"Galaxy Z Flip4",
+            "description":"Apple Watch SE – A great deal to love. Three stylish case colours. Powerful sensors for insights about your health and fitness. Innovative safety features. Convenient ways to stay connected. Apple Watch SE is feature-packed and now it’s a better value than ever.",
+            "price": "1000$"
+        }
+    ]
+}
